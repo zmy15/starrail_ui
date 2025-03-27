@@ -49,5 +49,12 @@
         "imgPath": "bubbleStyle7.svg",
         "textColor": "#f0f0f0",
         "css": "border-width: 10px 6px 14px 14px;"
+    },
+    
+    {
+		"name": "奇美拉大行动",
+        "imgPath": "bubbleStyle8.svg",
+        "textColor": "#000000",
+        "css": "border-width: 12px 16px 12px 12px;"
     }
 ]
